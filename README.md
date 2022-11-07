@@ -10,6 +10,9 @@
 Tech Stack 💻<hr/>
 
 
+[![Piyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=piyushkanadje)](https://github.com/piyushkanadje/github-readme-stats)
+
+
 
 <!---
 piyushkanadje/piyushkanadje is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

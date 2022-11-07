@@ -11,6 +11,13 @@ Tech Stack 💻<hr/>
 
 My Projects List 📁 <hr/>
 
+📫 How to reach me:
+[Email](piyushkanadje@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/piyush-kanadje/)
+
+
+
+
 
 
 [![Piyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=piyushkanadje)](https://github.com/piyushkanadje/github-readme-stats)

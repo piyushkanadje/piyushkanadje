@@ -7,8 +7,8 @@
 - Connect With me on my [LinkedIn](https://www.linkedin.com/in/piyush-kanadje/)
 
 
-Tech Stack 💻
-<hr/>
+Tech Stack 💻<hr/>
+
 
 
 <!---

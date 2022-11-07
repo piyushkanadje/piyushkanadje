@@ -11,9 +11,9 @@ Tech Stack 💻<hr/>
 
 My Projects List 📁 <hr/>
 
-📫 How to reach me:
-[Email](piyushkanadje@gmail.com)
-[LinkedIn](https://www.linkedin.com/in/piyush-kanadje/)
+📫 How to reach me: <br/>
+[Email](piyushkanadje@gmail.com)  <br/>
+[LinkedIn](https://www.linkedin.com/in/piyush-kanadje/) <br/>
 
 
 

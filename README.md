@@ -16,7 +16,8 @@ Tech Stack 💻<hr/>
 - 🤓 Other applications/technologies -Git, Kafka, Camunda, VS Code, Visual Studio, REST APIs, XML, JSON, XSLT, Jira, 
 
 
-My Projects List 📁 <hr/>
+
+
 
 📫 How to reach me: <br/>
 [Email](piyushkanadje@gmail.com)  <br/>

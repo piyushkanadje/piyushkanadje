@@ -1,7 +1,7 @@
 - 1% improvement Daily ;
 - 👋 Hi, I’m @piyushkanadje
 - Currently pursuing a master's degree in Computer Engineering at the University Of California Riverside.
-- 👀 Seeking Frontend, Backend and Devops roles as SDE/SWE.
+- 👀 Seeking Frontend and backend roles as SDE/SWE.
 - 📫 How to reach me piyushkanadje@gmail.com
 - Connect With me on my [LinkedIn](https://www.linkedin.com/in/piyush-kanadje/)
 

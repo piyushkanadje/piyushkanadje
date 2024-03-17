@@ -7,8 +7,8 @@
 
 
 Tech Stack 💻<hr/>
-- { } Programming Languages - Python, Java, Javascript, C/C++, Sql
-- 🧰 Tools/frameworks -  Spring Boot, Git, Laravel, WordPress, Kafka, Jira, Camunda, VS Code, Postman, Wordpress
+- { } Programming Languages - Python, Java, Javascript,
+- 🧰 Tools/frameworks -  Flask, Django, Git, Laravel, WordPress, Kafka, Jira, Camunda, VS Code, Postman
 - 🗄 Data management systems - MySQL, MongoDB
 - 💻 Web Development - HTML, CSS, Bootstrap, React, NodeJS, Typescript
 - ☁ Cloud Technologies - Docker, Kubernetes, AWS 

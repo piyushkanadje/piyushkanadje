@@ -10,10 +10,9 @@ Tech Stack 💻<hr/>
 - { } Programming Languages - Python, Java, Javascript,
 - 🧰 Tools/frameworks -  Flask, Django, Git, Laravel, WordPress, Kafka, Jira, Camunda, VS Code, Postman
 - 🗄 Data management systems - MySQL, MongoDB
-- 💻 Web Development - HTML, CSS, Bootstrap, React, NodeJS, Typescript
-- ☁ Cloud Technologies - Docker, Kubernetes, AWS 
-- 🤓 Other applications/technologies -Git, Kafka, Camunda, VS Code, Visual Studio, REST APIs, XML, JSON, XSLT, Jira, 
-
+- 💻 Web Development -  React.js, Next.js, TailwindCSS, TypeScript, HTML5, CSS, Bootstrap, Node.JS, MySQL, Jest
+- ☁ Cloud Technologies -  Docker, Kubernetes, AWS EC2, AWS EKS, AWS S3, GCP Storage
+- 🤓 Other applications/technologies - Linux, Jenkins, RESTful APIs, Pyunit, JSON, Npm, Jquery
 
 
 

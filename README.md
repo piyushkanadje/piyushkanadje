@@ -1,8 +1,9 @@
 - 1% improvement Daily ;
 - 👋 Hi, I’m @piyushkanadje
-- Currently pursuing a master's degree in Computer Engineering at the University Of California Riverside.
+- Software Developer (Full Stack) - BlockConvey
+- Master's degree in Computer Engineering at the University Of California Riverside.
 - 👀 Seeking Frontend and backend roles as SDE/SWE.
-- 📫 How to reach me piyushkanadje@gmail.com
+- 📫 How to reach me piyushkanadje.work@gmail.com
 - Connect With me on my [LinkedIn](https://www.linkedin.com/in/piyush-kanadje/)
 
 
@@ -19,7 +20,8 @@ Tech Stack 💻<hr/>
 
 📫 How to reach me: <br/>
 [Email](piyushkanadje@gmail.com)  <br/>
-[LinkedIn](https://www.linkedin.com/in/piyush-kanadje/) <br/>
+[LinkedIn](https://www.linkedin.com/in/piyush-kanadje/) <br/> 
+[Portfolio] (https://piyushkanadje.com/) <br/>
 
 
 

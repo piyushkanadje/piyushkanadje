@@ -1,6 +1,6 @@
 - 1% improvement Daily ;
 - 👋 Hi, I’m @piyushkanadje
-- Software Development Engineer (Full Stack) - BlockConvey
+- Software Development Engineer (Full Stack) - Block Convey
 - Master's degree in Computer Engineering at the University Of California Riverside.
 - 👀 Seeking Frontend and backend roles as SDE/SWE.
 - 📫 How to reach me piyushkanadje.work@gmail.com
